@@ -1,7 +1,7 @@
 let num = +prompt("Enter number to print table");
 
 for(let i = 1; i <= num; i++ ){
-     document.write( '<h1>Table</h1>     <br>'   );
+     document.write(" <h1> Table of "+i+"</h1>")
 
 
 for(let j = 1 ; j <= 10; j++ ){
